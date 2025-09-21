@@ -46,8 +46,6 @@ const skills = [
   // Tools & IDEs
   { name: "Jira", category: "tools", icon: <SiJira size={40} className={floatClass}/> },
   { name: "Data Engineering", category: "tools", icon: <FaNetworkWired size={40} className={floatClass}/> },
-  { name: "VS Code", category: "tools", icon: <DiVisualstudio size={40} className={floatClass}/> },
-  { name: "IntelliJ IDEA", category: "tools", icon: <DiIntellij size={40} className={floatClass}/> },
   { name: "Java Swing", category: "tools", icon: <FaWindowMaximize size={40} className={floatClass}/> }, // Added Java Swing
 ];
 
